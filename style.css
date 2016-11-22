@@ -27,7 +27,8 @@
 	font-size: 2em;
 	font-weight: bold;
 	font-family: Georgia;
-	bottom: 30px;
+	bottom: 10px;
+	padding-bottom: 20px;
 }
 .news_header {
 	bottom: 20px;
@@ -140,7 +141,7 @@ footer {
 	}
 
 	.container {
-	margin: 10% 20% 0 20%;
+	margin: 10% 15% 0 15%;
 	}
 
 	li label {
